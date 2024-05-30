@@ -79,7 +79,7 @@ Output:
 */
 ```
 
-[Full Documentation](https://github.com/thepixelist11/flagts/DOCS.md) 
+[Full Documentation](https://github.com/thepixelist11/flagts/blob/main/DOCS.md)
 
 ## :wave: Contributing
 #### Contributions are always welcome!
