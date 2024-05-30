@@ -1,0 +1,30 @@
+{
+  "name": "flagts",
+  "version": "1.0.0",
+  "description": "A flag parsing library for TypeScript and JavaScript loosely based on Golang's flag package",
+  "main": "main.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thepixelist11/flagts.git"
+  },
+  "keywords": [
+    "flag",
+    "command",
+    "line",
+    "tty",
+    "parsing",
+    "parse",
+    "typescript",
+    "javascript",
+    "js",
+    "ts",
+    "library",
+    "module"
+  ],
+  "author": "thepixelist",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/thepixelist11/flagts/issues"
+  },
+  "homepage": "https://github.com/thepixelist11/flagts#readme"
+}
